@@ -1,5 +1,7 @@
 # Hi 👋, I'm Mohsin Hayat
 
+![](https://komarev.com/ghpvc/?username=mohsinhayat11&color=blue)
+
 ## Software Engineering Student | Full Stack Web Developer
 
 I am a Software Engineering student at COMSATS University Islamabad with a passion for building modern, scalable, and user-friendly web applications.
