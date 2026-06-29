@@ -64,3 +64,17 @@ mohsinmalak745@gmail.com
 ---
 
 ⭐ Thanks for visiting my GitHub profile!
+
+---
+
+## 📊 GitHub Stats
+
+![Mohsin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohsinhayat11&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinhayat11&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mohsinhayat11&theme=github-dark&hide_border=true)
